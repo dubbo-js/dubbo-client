@@ -1,5 +1,5 @@
 {
-  "name": "dubbo-client",
+  "name": "dubbojs-client",
   "version": "0.1.0",
   "description": "dubbo service client",
   "main": "lib/client.js",
